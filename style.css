@@ -1,0 +1,69 @@
+
+.menu {
+
+    background: url("imagemgame3.jpg") no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+    
+
+}
+
+
+
+.menu .linkMenu{
+
+    text-decoration: none;
+    margin: 30px 30px 0px;  
+    text-transform: uppercase;
+    color:rgb(42, 182, 53);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+        
+    }
+
+    
+
+    #divBusca{
+        background-color:#E0EEEE;
+        border:solid 2px rgb(42, 182, 53);;
+        border-radius:10px;
+        width:300px;
+        height:32px;
+        background-position: left;  
+        background-repeat: no-repeat;
+        display: inline-block;
+
+      }
+      
+      #txtBusca{
+        float:left;
+        background-color:transparent;
+        padding-left:5px;
+        font-size:18px;
+        border:none;
+        height:32px;
+        width:191px;
+        background-position: left;  
+        background-repeat: no-repeat;
+        display: inline-block;
+
+      }
+      
+      #btnBusca{
+        border:none;
+        float:left;
+        height:32px;
+        border-radius:0 7px 7px 0;
+        width:70px;
+        font-weight:bold;
+        background:rgb(42, 182, 53);
+        background-position: left;  
+        background-repeat: no-repeat;
+        display: inline-block;
+
+
+      }
+      
+      #divBusca img{
+        float:left;
+      }
